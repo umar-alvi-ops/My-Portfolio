@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(241, 240, 240);
+    font-family: sans-serif;
+}
+.create{
+    font-size: 40px;
+    font-weight: 600;
+}
+li{
+    border-radius: 100%;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.Hello{
+    font-size: 50px;
+    font-weight: 600;
+}
+.data{
+    font-size: 20px;
+    line-height: 1.5;
+}
+.button1{
+   border: 1px solid white;
+
+}
+.container{
+    box-shadow: 1px 6px 12px 1px rgb(133, 128, 128);
+}
